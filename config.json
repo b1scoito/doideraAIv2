@@ -1,1 +1,7 @@
+{
     "token": "x",
+    "prefix": "!",
+    "AI": {
+        "apikey": "x"
+	}
+}
